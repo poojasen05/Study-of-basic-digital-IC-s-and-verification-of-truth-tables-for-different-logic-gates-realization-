@@ -66,6 +66,8 @@ nand(ynand,a,b);
 nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
+*/
+```
 0utput:
 OUTPUT RTL DIAGRAM:
 ![image](https://github.com/22003264/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119389139/61b550f0-1152-4e37-962e-288daf23621c)
