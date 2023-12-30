@@ -49,9 +49,9 @@ Procedure
 Connect the supply (+5V) to the circuit Switch ON the main switch Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed. If the output is 1, then the bulb glows. Check all the gates following the same procedure.
 
 ### Program:
-Developed by: O.Sirisha Reddy
+Developed by: POOJA S
 
-RegisterNumber: 212222230103
+RegisterNumber: 212223040146
 
 ```
 \*
